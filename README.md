@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @JuanmaPeteiro
-- 👀 I’m interested in Sotware Development
 - 🌱 I’m currently studding Computer Science Engineering
 
 <!---
